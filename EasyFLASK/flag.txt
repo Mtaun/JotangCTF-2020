@@ -1,1 +1,0 @@
-flag{flask_is_interesting_but_sometimes_dangerous}
